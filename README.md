@@ -2,6 +2,11 @@
 
 An AI-powered resume analysis application that analyzes resumes, extracts relevant information, evaluates skills, and provides insights to help improve a candidate's resume.
 
+## 📸 Application Preview
+
+![AI Resume Analyzer](screenshots/resume-analyzer.png)
+
+
 ## 🚀 Features
 
 * 📄 Resume parsing and information extraction
