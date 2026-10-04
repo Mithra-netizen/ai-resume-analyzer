@@ -1,0 +1,162 @@
+{
+  "Data Analyst": {
+    "aliases": ["data analyst", "bi analyst", "business intelligence analyst", "reporting analyst", "analytics specialist", "data analytics"],
+    "required_skills": ["SQL", "Excel", "Data Analysis"],
+    "preferred_skills": ["Python", "Pandas", "Power BI", "Tableau", "Statistics", "R", "Data Visualization"],
+    "tools": ["Excel", "Power BI", "Tableau", "SQL Server", "PostgreSQL", "Google Sheets", "Jupyter"],
+    "concepts": ["Data Cleaning", "Reporting", "KPIs", "Dashboarding", "Descriptive Statistics", "ETL"],
+    "education_keywords": ["Statistics", "Mathematics", "Computer Science", "Information Systems", "Economics", "Business Analytics"],
+    "experience_keywords": ["reporting", "dashboard", "insights", "metrics", "analyst", "data cleansing", "queries"],
+    "project_keywords": ["dashboard", "report", "kpi", "sales analysis", "customer insights", "trend analysis", "excel model"]
+  },
+  "Business Analyst": {
+    "aliases": ["business analyst", "systems analyst", "business systems analyst", "operations analyst", "requirements analyst"],
+    "required_skills": ["Business Analysis", "Requirements Gathering", "Excel", "SQL"],
+    "preferred_skills": ["Power BI", "Tableau", "Agile", "Scrum", "JIRA", "Process Mapping", "UML"],
+    "tools": ["JIRA", "Confluence", "Excel", "Visio", "Power BI", "Tableau", "Trello"],
+    "concepts": ["User Stories", "Stakeholder Management", "Gap Analysis", "Wireframing", "Use Cases", "BRD", "FRD"],
+    "education_keywords": ["Business Administration", "Information Systems", "Computer Science", "Management", "Finance"],
+    "experience_keywords": ["stakeholder", "user stories", "business requirements", "workflow", "process improvement", "scrum"],
+    "project_keywords": ["feasibility study", "business process", "gap analysis", "user story mapping", "system requirement"]
+  },
+  "Data Scientist": {
+    "aliases": ["data scientist", "applied scientist", "data science engineer", "statistical modeler"],
+    "required_skills": ["Python", "Pandas", "NumPy", "Machine Learning"],
+    "preferred_skills": ["Scikit-learn", "Statistics", "SQL", "Data Visualization", "Deep Learning", "R", "Matplotlib", "Seaborn"],
+    "tools": ["Jupyter", "TensorFlow", "PyTorch", "Scikit-learn", "Git", "Spark", "SQL"],
+    "concepts": ["Predictive Modeling", "Hypothesis Testing", "Feature Engineering", "Clustering", "Regression", "Classification", "Model Evaluation"],
+    "education_keywords": ["Data Science", "Computer Science", "Statistics", "Mathematics", "Machine Learning", "Physics"],
+    "experience_keywords": ["trained model", "predictive model", "experimentation", "feature extraction", "cross-validation", "scientist"],
+    "project_keywords": ["churn prediction", "recommender system", "classification model", "sentiment analysis", "time series forecast", "nlp"]
+  },
+  "Machine Learning Engineer": {
+    "aliases": ["machine learning engineer", "ml engineer", "ai engineer", "deep learning engineer", "mlops engineer"],
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch"],
+    "preferred_skills": ["MLOps", "Docker", "Kubernetes", "Scikit-learn", "Git", "FastAPI", "NLP", "Computer Vision"],
+    "tools": ["Docker", "Kubernetes", "TensorFlow", "PyTorch", "MLflow", "Git", "AWS", "GCP"],
+    "concepts": ["Model Deployment", "Neural Networks", "Hyperparameter Tuning", "Data Pipelines", "Serving", "Latency", "Fine-tuning"],
+    "education_keywords": ["Computer Science", "Artificial Intelligence", "Electrical Engineering", "Mathematics", "Machine Learning"],
+    "experience_keywords": ["model deployment", "inference pipeline", "training pipeline", "gpu optimization", "distributed training"],
+    "project_keywords": ["object detection", "nlp pipeline", "transformer model", "image segmentation", "real-time recommendation", "model serving"]
+  },
+  "Python Developer": {
+    "aliases": ["python developer", "python software engineer", "backend python engineer", "python backend developer"],
+    "required_skills": ["Python", "OOP", "SQL"],
+    "preferred_skills": ["Django", "FastAPI", "Flask", "PostgreSQL", "Docker", "Git", "REST API", "Redis"],
+    "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman", "PyTest", "Celery"],
+    "concepts": ["Object-Oriented Programming", "RESTful Architecture", "Database Design", "Unit Testing", "AsyncIO", "Multithreading"],
+    "education_keywords": ["Computer Science", "Software Engineering", "Information Technology", "Computer Engineering"],
+    "experience_keywords": ["backend services", "rest api", "microservices", "orm", "database migrations", "celery tasks"],
+    "project_keywords": ["django web app", "fastapi service", "rest api backend", "scraper", "web scraper", "automated workflow"]
+  },
+  "Java Developer": {
+    "aliases": ["java developer", "java engineer", "backend java engineer", "core java developer", "java software engineer"],
+    "required_skills": ["Java", "OOP", "SQL"],
+    "preferred_skills": ["Spring Boot", "REST API", "Git", "Maven", "Hibernate", "Microservices", "Docker", "PostgreSQL"],
+    "tools": ["IntelliJ IDEA", "Eclipse", "Maven", "Gradle", "Git", "Postman", "Jenkins"],
+    "concepts": ["Spring MVC", "Dependency Injection", "JPA", "Object-Oriented Design", "Multithreading", "Design Patterns"],
+    "education_keywords": ["Computer Science", "Software Engineering", "Computer Engineering", "Information Technology"],
+    "experience_keywords": ["spring boot", "microservices", "enterprise application", "jpa repository", "rest controller"],
+    "project_keywords": ["banking system", "e-commerce backend", "spring boot api", "inventory management", "order processing"]
+  },
+  "Web Developer": {
+    "aliases": ["web developer", "website developer", "web programmer", "full stack web developer"],
+    "required_skills": ["HTML", "CSS", "JavaScript"],
+    "preferred_skills": ["React", "Node.js", "Django", "Flask", "Git", "SQL", "Bootstrap", "Tailwind CSS"],
+    "tools": ["VS Code", "Git", "GitHub", "Chrome DevTools", "npm", "Postman"],
+    "concepts": ["Responsive Design", "DOM Manipulation", "Semantic HTML", "CSS Flexbox", "CSS Grid", "REST API Consumption"],
+    "education_keywords": ["Computer Science", "Web Development", "Information Technology", "Software Engineering"],
+    "experience_keywords": ["web development", "responsive UI", "landing pages", "single page application", "cross-browser"],
+    "project_keywords": ["portfolio website", "e-commerce site", "blog platform", "interactive web app", "landing page"]
+  },
+  "Frontend Developer": {
+    "aliases": ["frontend developer", "front end developer", "front-end engineer", "react developer", "ui developer", "angular developer"],
+    "required_skills": ["HTML", "CSS", "JavaScript", "React"],
+    "preferred_skills": ["TypeScript", "Next.js", "Tailwind CSS", "Redux", "Git", "Vue", "Angular", "Responsive Design"],
+    "tools": ["VS Code", "Webpack", "Vite", "Figma", "npm", "Git", "Chrome DevTools"],
+    "concepts": ["State Management", "Component Lifecycle", "Hooks", "Single Page Applications", "Virtual DOM", "Web Performance"],
+    "education_keywords": ["Computer Science", "Software Engineering", "Interactive Media", "Information Technology"],
+    "experience_keywords": ["frontend", "user interface", "component library", "responsive design", "client-side routing"],
+    "project_keywords": ["react dashboard", "frontend redesign", "spas", "interactive map", "admin panel", "next.js app"]
+  },
+  "Backend Developer": {
+    "aliases": ["backend developer", "back end developer", "back-end engineer", "api developer", "server side developer"],
+    "required_skills": ["SQL", "REST API", "Database Design"],
+    "preferred_skills": ["Python", "Java", "Node.js", "PostgreSQL", "Docker", "Redis", "Microservices", "Git"],
+    "tools": ["Docker", "Postman", "Git", "Linux", "Swagger", "DBeaver", "Kubernetes"],
+    "concepts": ["Authentication", "JWT", "API Gateway", "Caching", "Concurrency", "Message Queues", "Scalability"],
+    "education_keywords": ["Computer Science", "Computer Engineering", "Software Engineering", "Information Systems"],
+    "experience_keywords": ["backend", "api design", "database schema", "query optimization", "server infrastructure", "caching layer"],
+    "project_keywords": ["auth microservice", "rest api", "payment gateway integration", "graphql api", "real-time chat backend"]
+  },
+  "Full Stack Developer": {
+    "aliases": ["full stack developer", "fullstack engineer", "full-stack developer", "mern stack developer", "mean stack developer"],
+    "required_skills": ["JavaScript", "HTML", "CSS", "SQL", "REST API"],
+    "preferred_skills": ["React", "Node.js", "Python", "MongoDB", "PostgreSQL", "Docker", "Git", "TypeScript"],
+    "tools": ["Git", "GitHub", "Docker", "Postman", "VS Code", "npm"],
+    "concepts": ["End-to-End Architecture", "Client-Server Protocol", "Database Integration", "State Management", "CI/CD"],
+    "education_keywords": ["Computer Science", "Software Engineering", "Information Technology"],
+    "experience_keywords": ["full stack", "frontend and backend", "end-to-end development", "database to ui", "full lifecycle"],
+    "project_keywords": ["mern stack app", "full stack portal", "social media clone", "saas platform", "marketplace app"]
+  },
+  "Software Developer": {
+    "aliases": ["software developer", "software engineer", "application developer", "sde", "software programmer"],
+    "required_skills": ["OOP", "Data Structures", "Algorithms", "Git"],
+    "preferred_skills": ["Python", "Java", "C++", "SQL", "Linux", "Testing", "CI/CD", "Docker"],
+    "tools": ["Git", "GitHub", "Linux", "VS Code", "IntelliJ IDEA", "JIRA"],
+    "concepts": ["Software Design Patterns", "Agile Methodology", "Code Review", "Version Control", "Unit Testing", "Debugging"],
+    "education_keywords": ["Computer Science", "Computer Engineering", "Software Engineering", "Information Technology"],
+    "experience_keywords": ["software engineering", "feature development", "bug fixes", "code refactoring", "agile sprints"],
+    "project_keywords": ["desktop application", "distributed system", "cli tool", "algorithm visualizer", "utility library"]
+  },
+  "Database Developer": {
+    "aliases": ["database developer", "database administrator", "dba", "sql developer", "database engineer"],
+    "required_skills": ["SQL", "Database Design", "Stored Procedures"],
+    "preferred_skills": ["MySQL", "PostgreSQL", "MongoDB", "Performance Tuning", "Indexing", "ETL", "Oracle", "Python"],
+    "tools": ["MySQL Workbench", "pgAdmin", "DBeaver", "SQL Server Management Studio", "Oracle SQL Developer"],
+    "concepts": ["Normalization", "Query Optimization", "Transactions", "ACID Properties", "Replication", "Data Modeling"],
+    "education_keywords": ["Computer Science", "Information Systems", "Database Management", "Information Technology"],
+    "experience_keywords": ["database migration", "schema design", "stored procedures", "query optimization", "backup recovery"],
+    "project_keywords": ["warehouse schema", "database migration script", "etl pipeline", "indexing optimization", "sharding setup"]
+  },
+  "DevOps Engineer": {
+    "aliases": ["devops engineer", "site reliability engineer", "sre", "platform engineer", "infrastructure engineer"],
+    "required_skills": ["Linux", "Git", "CI/CD", "Docker"],
+    "preferred_skills": ["Kubernetes", "AWS", "Terraform", "Ansible", "Jenkins", "Python", "Bash", "Prometheus"],
+    "tools": ["Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions", "Terraform", "Ansible", "Linux"],
+    "concepts": ["Infrastructure as Code", "Continuous Integration", "Continuous Deployment", "Monitoring", "Logging", "Containerization"],
+    "education_keywords": ["Computer Science", "Computer Engineering", "Information Systems", "Network Engineering"],
+    "experience_keywords": ["ci/cd pipeline", "cluster administration", "automated deployment", "server provisioning", "monitoring"],
+    "project_keywords": ["kubernetes cluster setup", "terraform aws deployment", "gitlab ci pipeline", "helm charts", "prometheus grafana"]
+  },
+  "Cloud Engineer": {
+    "aliases": ["cloud engineer", "cloud architect", "cloud solutions architect", "aws engineer", "azure engineer", "gcp engineer"],
+    "required_skills": ["Cloud Computing", "Linux", "Networking"],
+    "preferred_skills": ["AWS", "Azure", "GCP", "Docker", "Terraform", "Kubernetes", "Python", "Security"],
+    "tools": ["AWS Console", "Azure Portal", "Google Cloud Platform", "Terraform", "Docker", "Bash"],
+    "concepts": ["VPC", "Serverless", "IAM", "High Availability", "Disaster Recovery", "Cloud Storage", "Cost Optimization"],
+    "education_keywords": ["Computer Science", "Cloud Computing", "Information Technology", "Computer Engineering"],
+    "experience_keywords": ["cloud migration", "cloud infrastructure", "iam policies", "ec2 s3 lambda", "vpc configuration"],
+    "project_keywords": ["serverless api aws lambda", "multi-region cloud architecture", "cloud migration plan", "azure devops deploy"]
+  },
+  "UI/UX Designer": {
+    "aliases": ["ui/ux designer", "product designer", "user experience designer", "user interface designer", "interaction designer"],
+    "required_skills": ["Figma", "User Research", "Wireframing", "Prototyping"],
+    "preferred_skills": ["Adobe XD", "HTML", "CSS", "Design Systems", "Usability Testing", "Information Architecture"],
+    "tools": ["Figma", "Adobe XD", "Sketch", "InVision", "Miro", "Zeplin"],
+    "concepts": ["User Personas", "Journey Mapping", "Responsive Design", "Color Theory", "Typography", "Accessibility", "A/B Testing"],
+    "education_keywords": ["Design", "Human Computer Interaction", "Graphic Design", "Digital Media", "Visual Arts"],
+    "experience_keywords": ["user research", "wireframes", "interactive prototypes", "design system", "usability studies"],
+    "project_keywords": ["mobile app redesign", "saas design system", "user journey map", "interactive prototype figma", "ecommerce ux audit"]
+  },
+  "Project Manager": {
+    "aliases": ["project manager", "technical project manager", "tpm", "scrum master", "product manager", "agile coach"],
+    "required_skills": ["Project Management", "Agile", "Scrum", "Risk Management"],
+    "preferred_skills": ["JIRA", "Budgeting", "Stakeholder Communication", "Confluence", "PMP", "Sprint Planning"],
+    "tools": ["JIRA", "Trello", "Asana", "MS Project", "Confluence", "Slack", "Miro"],
+    "concepts": ["Sprint Backlog", "Resource Allocation", "Timeline Management", "Gantt Charts", "Critical Path", "Retrospectives"],
+    "education_keywords": ["Business Administration", "Management", "Project Management", "Information Technology", "Engineering Management"],
+    "experience_keywords": ["sprint planning", "cross-functional team", "budget management", "milestone delivery", "stakeholder reporting"],
+    "project_keywords": ["software release cycle", "agile transformation", "migration roadmap", "product launch plan", "budget optimization"]
+  }
+}
